@@ -37,7 +37,13 @@ a {
     padding-right: 70px;
     
     text-align: center;
+    position: relative;
 }
 
+#oval {
+    
+    bottom: 0;
+    
+}
 
 
